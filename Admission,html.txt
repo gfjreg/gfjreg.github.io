@@ -1,0 +1,19 @@
+<h1>Admission Forms</h1>
+<hr>
+<p>There are several forms you are required to complete prior to your child's attendance:</p>
+<ul>
+<li><a href="http://localhost/forms/ChildCare_RegistrationForm.pdf" target="_blank">KidsKare Academy Registration Form</a></li>
+<li><a href="http://localhost/forms/PerAuthor.pdf" target="_blank">Permission Authorization Form</a></li>
+<li><a href="http://localhost/forms/ChildCareAgreement.pdf" target="_blank">KidsKare Academy Aggrement</a></li>
+<li><a href="http://localhost/forms/ics.pdf" target="_blank">Certificate of Immunization Status Form</a></li>
+</ul>
+<h2>Note about immunization:</h2>
+<ul>
+<li>
+<p>A <strong>CIS form</strong> must be used, must be current and updated yearly (more frequently for infants).  All children must be current on their immunizations.</p>
+</li>
+<li>
+<p>We <strong>DO NOT</strong> take children whose immunizations are not up to date. If your child has a reason that he couldn’t have a particular immunization, please talk to us.</p>
+</li>
+<li>
+<p>If there is a signed exemption to immunizations, the child may need to be excluded from child care if there is an outbreak of a vaccine preventable disease that the child has not been immunized for.</p></li></ul>
