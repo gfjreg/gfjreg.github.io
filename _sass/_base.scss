@@ -89,7 +89,7 @@ a {
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: darken($brand-color, 5%);
     }
 
     &:hover {
@@ -244,7 +244,7 @@ $main-font: Helvetica, Arial, sans-serif;
       display: block;
       padding: 8px;
       background: $background;
-      color: $color;
+      color: #ffffff;
       &:hover {
          background: darken($background, 2%);
       }
@@ -252,7 +252,7 @@ $main-font: Helvetica, Arial, sans-serif;
 }
 
 nav {
- @include tabs ($background: $black, $color: $white);
+ @include tabs ($background: $black, $color: $gray);
  font-weight: bold;
 }
 

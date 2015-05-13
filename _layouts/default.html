@@ -12,6 +12,14 @@
       </div>
     </div>
 
+    <script>
+     if( detectmob() ) {
+        document.getElementById("home_on_pc").innerHTML = "";
+     } else {
+        document.getElementById("home_on_mobile").innerHTML = "";
+     }
+    </script>
+
     {% include footer.html %}
 
   </body>
