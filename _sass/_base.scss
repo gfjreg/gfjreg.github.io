@@ -246,13 +246,13 @@ $main-font: Helvetica, Arial, sans-serif;
       background: $background;
       color: $color;
       &:hover {
-         background: darken($background, 15%);
+         background: darken($background, 2%);
       }
    }
 }
 
 nav {
- @include tabs ($background: $white, $color: $red);
+ @include tabs ($background: $black, $color: $white);
  font-weight: bold;
 }
 

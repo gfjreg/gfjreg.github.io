@@ -20,10 +20,14 @@ github_username:  kidskareacademy
 facebook_username:  kidskareacademy
 
 
-
 #Home page settings:
 welcome-color: color:red
 welcome: Welcome to 
+
+generaltextcolor: color:black
+scheduletextcolor: color:red
+
+homevideo_desc: Watch the above video to see what the students achieved after 100 days
 
 licensed: State licensed before and after school learning center
 specific1: Experienced Chinese and Math teacher in NWCS(Northwest Chinese School)
@@ -33,54 +37,70 @@ specific4: Small-sized class(maximum - 8)
 specific5: Spacious and clean new house, around 2000sf open to kids
 specific6: Offer transportation from school and one snack
 
-transportation: Van transportation is provided to and from Moorlands, Kenmore, Lockwood, Thoreau, Arrowhead and Carl Sandberg schools
+transportation: >
+  Van transportation is provided to and from Moorlands, Kenmore, Thoreau, Arrowhead, Juanita, Carl Sandberg, 
+  Shelton View and SunRise.
 
-snacks: We serve nutritious hot lunches along with morning and afternoon snacks. Our menus is posted weekly on the bulletin board by the office. Lunches brought from home are stored in the refrigerator in the break room.
+snacks: >
+  For after school students, we serve a nutritious free snackhot.
+  Food brought from home are stored in the refrigerator in the break room.
 
-schedule: KidsKareAcademy is open Monday through Friday. Parents are welcome at the Daycare at anytime.
+schedule: KidsKareAcademy is open Monday through Friday. Parents are welcome at the learning center anytime.
 
-closeinfo: The Daycare is closed only for Christmas, Thanksgiving, Labor Day, July 4th, Memorial Day and New Year.
+closeinfo: 
 
 #Wizard tab settings:
 wizard1URL: /
 wizard1title: Home page
 wizard1Display: Home
 
-wizard2URL: /Rates
-wizard2title: Programs and fees
-wizard2Display: Programs
+wizard2URL: /AfterSchool
+wizard2title: After school program and rate
+wizard2Display: After School
 
-wizard3URL: /AdmissionForms
-wizard2title: You can all forms here
-wizard3Display: Forms
+wizard3URL: /BeforeSchool
+wizard3title: Before school program and rate
+wizard3Display: Before School
+
+wizard4URL: /WeekendChinese
+wizard4title: Weekend Chinese Program and rate
+wizard4Display: Weekend Chinese
+
+wizard5URL: /DropIn
+wizard5title: Drop in Program and rate
+wizard5Display: Drop in
+
+wizard6URL: /AdmissionForms
+wizard6title: The forms you need fill
+wizard6Display: Forms
    
-wizard4URL: /videos.html
-wizard2title: Interesting videos
-wizard4Display: Videos
+wizard7URL: /videos.html
+wizard7title: Interesting videos
+wizard7Display: Videos
 
-wizard5URL: /pictures.html
-wizard2title: Interesting pictures
-wizard5Display: Pictures
+wizard8URL: /pictures.html
+wizard8title: Interesting pictures
+wizard8Display: Pictures
 
-wizard6URL: /contact.html
-wizard2title: All contact info here
-wizard6Display: Contact us   
+wizard9URL: /contact.html
+wizard9title: All contact info here
+wizard9Display: Contact us   
 
-wizard7URL: /policies.html
-wizard2title: you can find all info you want to know here 
-wizard7Display: Policies
-
-wizard8URL: 
-wizard8Display: 
-
-wizard9URL: 
-wizard9Display: 
-
-wizard10URL: 
-wizard10Display:
+wizard10URL: /policies.html
+wizard10title: you can find all info you want to know here 
+wizard10Display: Documents
 
 wizard11URL: 
-wizard11Display:
+wizard11Display: 
+
+wizard12URL: 
+wizard12Display: 
+
+wizard13URL: 
+wizard13Display:
+
+wizard14URL: 
+wizard14Display:
 
 homevideo: /videos/100days.mp4
 schedule-mon:  Mon
