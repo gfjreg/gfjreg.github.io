@@ -1,4 +1,4 @@
-# Site settings
+#Site settings
 name: KidsKare Academy Learning Center
 description: > # this means to ignore newlines until "baseurl:"
   This is the official website for KidsKareAcademy. You can find anything
@@ -161,36 +161,40 @@ picture34: /pictures/34.jpg
 
 
 
-picture1_desc: Zifu is reading
-picture2_desc: 
-picture3_desc: 
-picture4_desc: 
-picture5_desc: 
-picture6_desc: 
-picture7_desc: 
-picture8_desc: 
-picture9_desc: 
-picture10_desc: 
-picture11_desc: 
-picture12_desc: 
-picture13_desc: 
-picture14_desc: 
-picture15_desc: 
-picture16_desc: 
-picture17_desc: 
-picture18_desc: 
-picture19_desc: 
-picture20_desc: 
-picture21_desc: 
-picture22_desc: 
-picture23_desc: 
-picture24_desc: 
-picture25_desc: 
-picture26_desc: 
-picture27_desc: 
-picture28_desc: 
-picture29_desc: 
-picture30_desc: 
+picture1_desc: Doing reading project
+picture2_desc: Field trip to Bothell library
+picture3_desc: Dino Art
+picture4_desc: Outside playing time
+picture5_desc: Bicycling in the cul-de-sac
+picture6_desc: Birthday Party
+picture7_desc: Chess Corner
+picture8_desc: Reading Corner
+picture9_desc: Quiet safe cul-de-sac
+picture10_desc: Field Trip to Pacific Science Center
+picture11_desc: Field Trip to Pacific Science Center
+picture12_desc: Home Picture
+picture13_desc: Home Picture
+picture14_desc: Field Trip to Pacific Science Center
+picture15_desc: Field Trip to Downtown Seattle
+picture16_desc: Field Trip to Juanita Beach Park
+picture17_desc: Playing in the backyard
+picture18_desc: Balloon puppet
+picture19_desc: Bead Art Project
+picture20_desc: Field Trip to Pacific Science Center
+picture21_desc: Kitchen
+picture22_desc: Class Place
+picture23_desc: Puzzle Time
+picture24_desc: Biscuit and Angel
+picture25_desc: Biscuit and Angel
+picture26_desc: Extra Class Table
+picture27_desc: Office for Art Project
+picture28_desc: Quiet Reading Corner
+picture29_desc: Birthday Party
+picture30_desc: Halloween Party
+picture31_desc: Halloween Party
+picture32_desc: Student Chinese Writing Work - The snake from heaven, Page 1
+picture33_desc: Student Chinese Writing Work - The snake from heaven, Page 2
+picture34_desc: Play Room
 
 #Video settings:
 video1: /videos/100days.mp4
