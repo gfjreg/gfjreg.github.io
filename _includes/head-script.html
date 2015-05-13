@@ -10,10 +10,11 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
-  <style>
+   <style>
       html, body, #map-canvas {
         height: 100%;
-        margin: 0px;
+        width: 100%;
+        margin:  0px;
         padding: 0px
       }
     </style>
@@ -22,11 +23,12 @@
 
     <script>
     function initialize() {
-      var myLatlng = new google.maps.LatLng(47.7348519, -122.231203);
+      var myLatlng = new google.maps.LatLng({{ site.LatLng }} );
       var mapOptions = {
         zoom: 15,
         center: myLatlng
       }
+
       var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
 
       var marker = new google.maps.Marker({

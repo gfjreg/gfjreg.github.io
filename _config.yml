@@ -206,6 +206,9 @@ video2_desc: Goodbye party to Kathrine
 policycolor: color:red
 
 
+#Contact settings:
+LatLng: 47.7348519, -122.231203
+
 # Build settings
 markdown: kramdown
 
