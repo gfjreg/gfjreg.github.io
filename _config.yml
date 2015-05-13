@@ -1,26 +1,26 @@
 # Site settings
 name: KidsKare Academy Learning Center
-
-email: gaofujie@hotmail.com
-
 description: > # this means to ignore newlines until "baseurl:"
   This is the official website for KidsKareAcademy. You can find anything
   about the academy, including registration, fees, cources, policies, etc.
 baseurl: "" # the subpath of your site, e.g. /blog/
 
 url: "http://kidskareacademy.com" # the base hostname & protocol for your site
+copyright: (C)Copyright KidsKare Academy Learning Center, 2012, 2013, 2014, 2015
+
+email: gaofujie@hotmail.com
+phone: 425-273-6467
+address: 8135 NE 147th ST, Kenmore, WA 98028
+servearea: Serving Northshore, Lake Washington School Districts(Kenmore, Bothell, Kirkland, etc) since 2012
+servicecolor: color:green
 
 twitter_username: KidsKareAcademy
 github_username:  KidsKareAcademy
 
-phone: 425-273-6467
 
+#Home page settings:
 welcome-color: color:red
 welcome: Welcome to 
-
-address: 8135 NE 147th ST, Kenmore, WA 98028
-
-servearea: Serving Northshore, Lake Washington School Districts(Kenmore, Bothell, Kirkland, etc)
 
 licensed: State licensed before and after school learning center
 specific1: Experienced Chinese and Math teacher in NWCS(Northwest Chinese School)
@@ -30,7 +30,6 @@ specific4: Small-sized class(maximum - 8)
 specific5: Spacious and clean new house, around 2000sf open to kids
 specific6: Offer transportation from school and one snack
 
-
 transportation: Van transportation is provided to and from Moorlands, Kenmore, Lockwood, Thoreau, Arrowhead and Carl Sandberg schools
 
 snacks: We serve nutritious hot lunches along with morning and afternoon snacks. Our menus is posted weekly on the bulletin board by the office. Lunches brought from home are stored in the refrigerator in the break room.
@@ -39,6 +38,7 @@ schedule: KidsKareAcademy is open Monday through Friday. Parents are welcome at 
 
 closeinfo: The Daycare is closed only for Christmas, Thanksgiving, Labor Day, July 4th, Memorial Day and New Year.
 
+#Wizard tab settings:
 wizard1URL: /
 wizard1title: Home page
 wizard1Display: Home
@@ -79,10 +79,6 @@ wizard10Display:
 wizard11URL: 
 wizard11Display:
 
-
-servicecolor: color:green
-policycolor: color:red
-
 homevideo: /videos/100days.mp4
 schedule-mon:  Mon
 schedule-mon-type:     Chinese
@@ -104,6 +100,7 @@ schedule-fri:  Fri
 schedule-fri-type:     Chinese
 schedule-fri-period:   45 mins
 
+#Picture settings:
 picture1: /pictures/1.jpg
 picture2: /pictures/2.jpg
 picture3: /pictures/3.jpg
@@ -134,7 +131,6 @@ picture27: /pictures/27.jpg
 picture28: /pictures/28.jpg
 picture29: /pictures/29.jpg
 #picture30: /pictures/30.jpg
-
 
 picture1_desc: Zifu is reading
 picture2_desc: 
@@ -167,12 +163,16 @@ picture28_desc:
 picture29_desc: 
 picture30_desc: 
 
-
+#Video settings:
 video1: /videos/100days.mp4
 video1_desc: The students achieved after 100 days 
 video2: /videos/2.mp4
 video2_desc: Goodbye party to Kathrine 
 
+#Document settings
+policycolor: color:red
+
 
 # Build settings
 markdown: kramdown
+
