@@ -147,13 +147,13 @@
 
 
 .footer-col-11 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(32% - (#{$spacing-unit} / 2));
+    width:         calc(32% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-12 {
-    width: -webkit-calc(15% - (#{$spacing-unit} / 2));
-    width:         calc(15% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(18% - (#{$spacing-unit} / 2));
+    width:         calc(18% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
