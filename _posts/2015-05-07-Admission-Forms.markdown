@@ -8,7 +8,7 @@ permalink: /AdmissionForms/
 There are several forms you are required to complete prior to your child's attendance:
 
 -  [KidsKare Academy Registration Form](/forms/ChildCare_RegistrationForm.pdf)
--  [KidsKare Academy Aggrement](/forms/ChildCareAgreement.pdf)
+-  [KidsKare Academy Agreement Form](/forms/ChildCareAgreement.pdf)
 -  [Certificate of Immunization Status Form](/forms/cis.pdf)
 
 ##Note about immunization:##
