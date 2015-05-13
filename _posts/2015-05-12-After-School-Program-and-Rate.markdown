@@ -67,8 +67,8 @@ Title: After School Program and Rate
     Rate:  **$180/Week**
 
 
-
 ----------
+- **Payment due to every four weeks.** 
 
 - The rate is subject to increase every September.  
 
