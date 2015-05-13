@@ -1,0 +1,178 @@
+# Site settings
+name: KidsKare Academy Learning Center
+
+email: gaofujie@hotmail.com
+
+description: > # this means to ignore newlines until "baseurl:"
+  This is the official website for KidsKareAcademy. You can find anything
+  about the academy, including registration, fees, cources, policies, etc.
+baseurl: "" # the subpath of your site, e.g. /blog/
+
+url: "http://kidskareacademy.com" # the base hostname & protocol for your site
+
+twitter_username: KidsKareAcademy
+github_username:  KidsKareAcademy
+
+phone: 425-273-6467
+
+welcome-color: color:red
+welcome: Welcome to 
+
+address: 8135 NE 147th ST, Kenmore, WA 98028
+
+servearea: Serving Northshore, Lake Washington School Districts(Kenmore, Bothell, Kirkland, etc)
+
+licensed: State licensed before and after school learning center
+specific1: Experienced Chinese and Math teacher in NWCS(Northwest Chinese School)
+specific2: 45 minutes guaranteed academic learning everyday, including Singapore Math and Chinese reading & writing
+specific3: School homework individual tutoring
+specific4: Small-sized class(maximum - 8)
+specific5: Spacious and clean new house, around 2000sf open to kids
+specific6: Offer transportation from school and one snack
+
+
+transportation: Van transportation is provided to and from Moorlands, Kenmore, Lockwood, Thoreau, Arrowhead and Carl Sandberg schools
+
+snacks: We serve nutritious hot lunches along with morning and afternoon snacks. Our menus is posted weekly on the bulletin board by the office. Lunches brought from home are stored in the refrigerator in the break room.
+
+schedule: KidsKareAcademy is open Monday through Friday. Parents are welcome at the Daycare at anytime.
+
+closeinfo: The Daycare is closed only for Christmas, Thanksgiving, Labor Day, July 4th, Memorial Day and New Year.
+
+wizard1URL: /
+wizard1title: Home page
+wizard1Display: Home
+
+wizard2URL: /Rates
+wizard2title: Programs and fees
+wizard2Display: Programs
+
+wizard3URL: /AdmissionForms
+wizard2title: You can all forms here
+wizard3Display: Forms
+   
+wizard4URL: /videos.html
+wizard2title: Interesting videos
+wizard4Display: Videos
+
+wizard5URL: /pictures.html
+wizard2title: Interesting pictures
+wizard5Display: Pictures
+
+wizard6URL: /contact.html
+wizard2title: All contact info here
+wizard6Display: Contact us   
+
+wizard7URL: /policies.html
+wizard2title: you can find all info you want to know here 
+wizard7Display: Policies
+
+wizard8URL: 
+wizard8Display: 
+
+wizard9URL: 
+wizard9Display: 
+
+wizard10URL: 
+wizard10Display:
+
+wizard11URL: 
+wizard11Display:
+
+
+servicecolor: color:green
+policycolor: color:red
+
+homevideo: /videos/100days.mp4
+schedule-mon:  Mon
+schedule-mon-type:     Chinese
+schedule-mon-period:   45 mins
+
+schedule-tues: Tue
+schedule-tues-type:    Singapore Math
+schedule-tues-period:  45 mins
+
+schedule-wed:  Wed
+schedule-wed-type:     Chinese
+schedule-wed-period:   45 mins
+
+schedule-thur: Thu
+schedule-thur-type:    Singapore Math
+schedule-thur-period:  45 mins
+
+schedule-fri:  Fri
+schedule-fri-type:     Chinese
+schedule-fri-period:   45 mins
+
+picture1: /pictures/1.jpg
+picture2: /pictures/2.jpg
+picture3: /pictures/3.jpg
+picture4: /pictures/4.jpg
+picture5: /pictures/5.jpg
+picture6: /pictures/6.jpg
+picture7: /pictures/7.jpg
+picture8: /pictures/8.jpg
+picture9: /pictures/9.jpg
+picture10: /pictures/10.jpg
+picture11: /pictures/11.jpg
+picture12: /pictures/12.jpg
+picture13: /pictures/13.jpg
+picture14: /pictures/14.jpg
+picture15: /pictures/15.jpg
+picture16: /pictures/16.jpg
+picture17: /pictures/17.jpg
+picture18: /pictures/18.jpg
+picture19: /pictures/19.jpg
+picture20: /pictures/20.jpg
+picture21: /pictures/21.jpg
+picture22: /pictures/22.jpg
+picture23: /pictures/23.jpg
+picture24: /pictures/24.jpg
+picture25: /pictures/25.jpg
+picture26: /pictures/26.jpg
+picture27: /pictures/27.jpg
+picture28: /pictures/28.jpg
+picture29: /pictures/29.jpg
+#picture30: /pictures/30.jpg
+
+
+picture1_desc: Zifu is reading
+picture2_desc: 
+picture3_desc: 
+picture4_desc: 
+picture5_desc: 
+picture6_desc: 
+picture7_desc: 
+picture8_desc: 
+picture9_desc: 
+picture10_desc: 
+picture11_desc: 
+picture12_desc: 
+picture13_desc: 
+picture14_desc: 
+picture15_desc: 
+picture16_desc: 
+picture17_desc: 
+picture18_desc: 
+picture19_desc: 
+picture20_desc: 
+picture21_desc: 
+picture22_desc: 
+picture23_desc: 
+picture24_desc: 
+picture25_desc: 
+picture26_desc: 
+picture27_desc: 
+picture28_desc: 
+picture29_desc: 
+picture30_desc: 
+
+
+video1: /videos/100days.mp4
+video1_desc: The students achieved after 100 days 
+video2: /videos/2.mp4
+video2_desc: Goodbye party to Kathrine 
+
+
+# Build settings
+markdown: kramdown

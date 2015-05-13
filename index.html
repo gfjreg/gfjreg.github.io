@@ -1,7 +1,89 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello     World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
+---
+layout: default
+---
+
+<div class="home">
+
+  <h2 style="{{ site.welcome-color}}", class="center"> {{ site.welcome }} &nbsp {{ site.name }} </h2>
+  <p class="center"> {{ site.licensed }}</p>
+  <ul>
+    {% if site.specific1 %}
+      <li>{{ site.specific1 }} </li>
+    {% endif %}
+
+    {% if site.specific2 %}
+      <li>{{ site.specific2 }} </li>
+    {% endif %}
+
+    {% if site.specific3 %}
+      <li>{{ site.specific3 }} </li>
+    {% endif %}
+
+    {% if site.specific4 %}
+      <li>{{ site.specific4 }} </li>
+    {% endif %}
+
+    {% if site.specific5 %}
+      <li>{{ site.specific5 }} </li>
+    {% endif %}
+
+    {% if site.specific6 %}
+      <li>{{ site.specific6 }} </li>
+    {% endif %}
+
+    {% if site.specific7 %}
+      <li>{{ site.specific7 }} </li>
+    {% endif %}
+
+    {% if site.specific8 %}
+      <li>{{ site.specific8 }} </li>
+    {% endif %}
+
+    {% if site.specific9 %}
+      <li>{{ site.specific9 }} </li>
+    {% endif %}
+
+    {% if site.specific10 %}
+      <li>{{ site.specific10 }} </li>
+    {% endif %}
+
+
+  </ul>
+  <video width="700" controls>
+        <source src={{ site.homevideo }} type="video/mp4">
+        <source src={{ site.homevideo }} type="video/ogg">
+        Your browser does not support HTML5 video.
+  </video>
+
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+       <div class="footer-col   footer-col-5">
+          <h3>Area Served</h3>
+          <p>{{ site.servearea }}</p>
+          <p>
+          <h3>Transportation</h3>
+          <p>{{ site.transportation }}</p>
+          <p>
+          <h3>Snacks</h3>
+          <p>{{ site.snacks }}</p>
+          <p>
+       </div>
+
+       <div class="footer-col   footer-col-5">
+          <h3 class = "center" >Daily Schedule</h3>
+          <p class="text">{{ site.schedule}} </p>
+          <p>
+          <p>{{ site.closeinfo }}</p>
+          <p>
+          <p style="color:red"> {{ site.schedule-mon }} &nbsp&nbsp&nbsp{{ site.schedule-mon-type}}&nbsp&nbsp&nbsp {{ site.schedule-mon-period }} </p>
+          <p style="color:red"> {{ site.schedule-tues }} &nbsp&nbsp&nbsp{{ site.schedule-tues-type}}&nbsp&nbsp&nbsp {{ site.schedule-tues-period }} </p>
+          <p style="color:red"> {{ site.schedule-wed }} &nbsp&nbsp&nbsp{{ site.schedule-wed-type}}&nbsp&nbsp&nbsp {{ site.schedule-wed-period }} </p>
+          <p style="color:red"> {{ site.schedule-thur }} &nbsp&nbsp&nbsp{{ site.schedule-thur-type}}&nbsp&nbsp&nbsp {{ site.schedule-thur-period }} </p>
+          <p style="color:red"> {{ site.schedule-fri }} &nbsp&nbsp&nbsp{{ site.schedule-fri-type}}&nbsp&nbsp&nbsp {{ site.schedule-fri-period }} </p>
+       </div>
+
+    </div>
+  </div>
+
+</div>
+
