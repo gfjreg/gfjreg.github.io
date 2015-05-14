@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 
 url: "http://kidskareacademy.com" # the base hostname & protocol for your site
-copyright: (C)Copyright KidsKare Academy Learning Center, 2012-2015
+copyright: (C)Copyright KidsKare Academy Learning Center, 2012 - 2015
 
 email: kidskareacademy@hotmail.com
 phone: 425-273-6467
