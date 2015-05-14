@@ -8,8 +8,10 @@ Title: Weekend Chinese Program and Rate
 
 
 ##Rate##
-    Class 1: Saturday 15:00pm - 16:30pm  $20/week
-    Class 2: Saturday 19:00pm - 20:30pm  $20/week
+    Class 1: 
+       SAT 15:00pm-16:30pm $20/week
+    Class 2: 
+       SAT 19:00pm-20:30pm  $20/week
 
 
 ##Payment##

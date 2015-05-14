@@ -9,8 +9,8 @@ Title: Before School Program and Rate
 
 ##Rate##
 
-    Time:  Monday - Friday   8:00am - 9:15am         
-    Rate:  $15 each time
+    Time: M-F 8:00am-9:15am         
+    Rate: $15 each time
 
 
 - The rate is subject to increase every September.  

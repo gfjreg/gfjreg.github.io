@@ -19,12 +19,12 @@ Title: After School Program and Rate
 ##Academic Time##
 
 - ###After school students###
-        Monday, Wednesday, Friday:   Singapore Math     45 mins
-        Tuesday, Thursday:           Chinese Language   45 mins
+        M/W/F: Chinese        45 mins
+        T/Th:  Singapore Math 45 mins
 
 - ###Whole day students###
-        Morning:             Singapore Math
-        Afternoon:           Chinese Language
+        Morning:    Singapore Math
+        Afternoon:  Chinese
 
 
 
@@ -34,30 +34,30 @@ Title: After School Program and Rate
 ----------
 
 - ###Full time:###
-    Time:  Monday - Friday   3:00am - 6:00pm         
-    Rate:  **$100/Week**
+        Time:  M-F 3:00am - 6:00pm         
+        Rate:  **$100/Week**
    
 
 - ###Part time:###
     **4 days a week**: 
 
-          3:00pm  - 6:00pm       $85/Week
-          11:45am - 6:00pm      $150/Week
+          3:00pm-6:00pm   $85/Week
+          11:45am-6:00pm  $150/Week
 
     **3 days a week**: 
 
-          3:00pm  - 6:00pm       $65/Week
-          11:45am - 6:00pm      $115/Week
+          3:00pm-6:00pm   $65/Week
+          11:45am-6:00pm  $115/Week
 
     **2 days a week:**
 
-          3:00pm  - 6:00pm       $45/Week
-          11:45am - 6:00pm       $80/Week
+          3:00pm-6:00pm   $45/Week
+          11:45am-6:00pm  $80/Week
 
     **1 day a week:**
 
-          3:00pm  - 6:00pm       $25/Week
-          11:45am - 6:00pm       $40/Week
+          3:00pm-6:00pm   $25/Week
+          11:45am-6:00pm  $40/Week
 
 
 
