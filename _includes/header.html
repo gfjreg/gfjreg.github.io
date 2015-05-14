@@ -1,6 +1,6 @@
 <header class="site-header">
   <img src="/logo/logo.png" alt="Contact info">
-  <p style="{{site.servicecolor}}", class="center-top">{{ site.servearea }}</p>
+  <p id= "servicearea" style="{{site.servicecolor}}", class="center-top">{{ site.servearea }}</p>
 
   <div id = "contactinfo" class="right">
     <ul>
@@ -38,6 +38,7 @@
 
      if( detectmob() ) {
         document.getElementById("contactinfo").style.visibility = "hidden";
+        document.getElementById("servicearea").style.visibility = "hidden";
      }
   </script>
 
