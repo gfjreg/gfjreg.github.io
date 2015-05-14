@@ -89,7 +89,7 @@ a {
     text-decoration: none;
 
     &:visited {
-        color: darken(#ffffff, 5%);
+        color: darken($brand-color, 5%);
     }
 
     &:hover {
@@ -246,8 +246,12 @@ $main-font: Helvetica, Arial, sans-serif;
       background: $background;
       color: #ffffff;
       &:hover {
-         background: darken($background, 2%);
+         background: darken($background, 15%);
       }
+      &:visited {
+        color: darken(#ffffff, 5%);
+    }
+
    }
 }
 
