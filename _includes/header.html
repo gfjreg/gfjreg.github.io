@@ -31,14 +31,18 @@
      function detectmob() {
         if( mobileregmatch(navigator.userAgent||navigator.vendor||window.opera) ) {
           return true;
-        } else {
+        } else { 
           return false;
         }
      }  
 
      if( detectmob() ) {
+        /*
         document.getElementById("contactinfo").style.visibility = "hidden";
         document.getElementById("servicearea").style.visibility = "hidden";
+        */
+        document.getElementById("contactinfo").innerHTML = "";
+        document.getElementById("servicearea").innerHTML = "";
      }
   </script>
 
