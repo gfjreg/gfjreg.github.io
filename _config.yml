@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 
 url: "http://kidskareacademy.com" # the base hostname & protocol for your site
-copyright: (C)Copyright KidsKare Academy Learning Center, 2012, 2013, 2014, 2015
+copyright: (C)Copyright KidsKare Academy Learning Center, 2012-2015
 
 email: kidskareacademy@hotmail.com
 phone: 425-273-6467
@@ -42,7 +42,7 @@ transportation: >
   Shelton View and SunRise.
 
 snacks: >
-  For after school students, we serve a nutritious free snackhot.
+  For after school students, we serve a nutritious free snack.
   Food brought from home are stored in the refrigerator in the break room.
 
 schedule: KidsKareAcademy is open Monday through Friday. The academic learning schedule is as follows,
