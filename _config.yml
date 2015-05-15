@@ -157,7 +157,6 @@ picture30: /pictures/30.jpg
 picture31: /pictures/31.jpg
 picture32: /pictures/32.jpg
 picture33: /pictures/33.jpg
-picture34: /pictures/34.jpg
 
 
 
@@ -178,7 +177,7 @@ picture14_desc: Field Trip to Pacific Science Center
 picture15_desc: Field Trip to Downtown Seattle
 picture16_desc: Field Trip to Juanita Beach Park
 picture17_desc: Playing in the backyard
-picture18_desc: Balloon puppet
+picture18_desc: Play Room
 picture19_desc: Bead Art Project
 picture20_desc: Field Trip to Pacific Science Center
 picture21_desc: Kitchen
@@ -194,7 +193,7 @@ picture30_desc: Halloween Party
 picture31_desc: Halloween Party
 picture32_desc: Student Chinese Writing Work - The snake from heaven, Page 1
 picture33_desc: Student Chinese Writing Work - The snake from heaven, Page 2
-picture34_desc: Play Room
+
 
 #Video settings:
 video1: /videos/100days.mp4
