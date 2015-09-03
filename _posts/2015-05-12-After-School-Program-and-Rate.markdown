@@ -59,7 +59,8 @@ Title: After School Program and Rate
           3:00pm-6:00pm   $25/Week
           11:45am-6:00pm  $40/Week
 
-
+   
+    Part-time students need pay additional $10 on Wednesday Early Dismissal
 
 ----------
 
@@ -67,10 +68,20 @@ Title: After School Program and Rate
     Rate:  **$180/Week**
 
 
+
 ----------
+- ###Notice###
+
 - **Payment due to every four weeks.** 
 
-- The rate is subject to increase every September.  
+- Conference Week:
+  Additional $15 each day.
+
+- Pay for public holidays 
+
+- Pay half price to keep the spot when absent for whole week
+
+- Pay full price when absent for not whole week. 
 
 - Two-week notice will be given for rate increases.
 
