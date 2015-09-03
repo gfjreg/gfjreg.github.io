@@ -86,7 +86,7 @@ Title: After School Program and Rate
 
 - **Pay half price to keep the spot when absent for whole week**
 
-- **Pay full price when absent for not whole week. **
+- **Pay full price when absent for not whole week**
 
 - Two-week notice will be given for rate increases.
 
