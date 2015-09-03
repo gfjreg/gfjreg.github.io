@@ -17,7 +17,6 @@ Title: Drop In Program and Rate
 
 ----------
 
-
 - Two-week notice will be given for rate increases.
 
 - If other adjustments are needed, a two-week notice will be given.   

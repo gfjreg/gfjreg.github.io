@@ -74,14 +74,13 @@ Title: After School Program and Rate
 
 - **Payment due to every four weeks.** 
 
-- Conference Week:
-  Additional $15 each day.
+- **Conference Week: Additional $15 each day.**
 
-- Pay for public holidays 
+- **Pay for public holidays**
 
-- Pay half price to keep the spot when absent for whole week
+- **Pay half price to keep the spot when absent for whole week**
 
-- Pay full price when absent for not whole week. 
+- **Pay full price when absent for not whole week. **
 
 - Two-week notice will be given for rate increases.
 
