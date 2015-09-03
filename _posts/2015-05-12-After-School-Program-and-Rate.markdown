@@ -68,7 +68,7 @@ Title: After School Program and Rate
     Rate:  **$180/Week**
 
 
-<br>
+
 ----------
 - ###Notice###
 
