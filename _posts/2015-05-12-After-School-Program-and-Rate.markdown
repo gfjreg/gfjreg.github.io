@@ -19,8 +19,14 @@ Title: After School Program and Rate
 ##Academic Time##
 
 - ###After school students###
-        M/W/F: Chinese        45 mins
-        T/Th:  Singapore Math 45 mins
+     Beginner:
+        M/Th:  Chinese 45 mins
+        T/W/F: Singapore Math 45 mins
+
+     Advanced:
+        T/F:  Chinese 45 mins
+        M/W/Th: Singapore Math 45 mins
+        
 
 - ###Whole day students###
         Morning:    Singapore Math
