@@ -18,7 +18,6 @@ Title: Weekend Chinese Program and Rate
     Pay every 4 weeks.
 
 
-- The rate is subject to increase every September.  
 
 - Two-week notice will be given for rate increases.
 

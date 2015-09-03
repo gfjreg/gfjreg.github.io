@@ -13,7 +13,6 @@ Title: Before School Program and Rate
     Rate: $15 each time
 
 
-- The rate is subject to increase every September.  
 
 - Two-week notice will be given for rate increases.
 
