@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /AfterSchool/
-Title: After School Program and Rate
+Title: After School Program
 ---
 
 ----------
