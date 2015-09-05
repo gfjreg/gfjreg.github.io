@@ -28,59 +28,11 @@ Title: After School Program and Rate
            M/W/Th: Singapore Math 45 mins
         
 
-- ###Whole day students###
-        Morning:    Singapore Math
-        Afternoon:  Chinese
-
-
-
-
-##Rate##
-
-----------
-
-- ###Full time:###
-        Time:  M-F 3:00am - 6:00pm         
-        Rate:  **$100/Week**
-   
-
-- ###Part time:###
-    **4 days a week**: 
-
-          3:00pm-6:00pm   $85/Week
-          11:45am-6:00pm  $150/Week
-
-    **3 days a week**: 
-
-          3:00pm-6:00pm   $65/Week
-          11:45am-6:00pm  $115/Week
-
-    **2 days a week:**
-
-          3:00pm-6:00pm   $45/Week
-          11:45am-6:00pm  $80/Week
-
-    **1 day a week:**
-
-          3:00pm-6:00pm   $25/Week
-          11:45am-6:00pm  $40/Week
-
-   
-    Part-time students need pay additional $10 on Wednesday Early Dismissal
-
-----------
-
-- ###Half Day Kindergarteners###
-    Rate:  **$180/Week**
-
-
 
 ----------
 - ###Notice###
 
 - **Payment due to every four weeks.** 
-
-- **Conference Week: Additional $15 each day.**
 
 - **Pay for public holidays**
 
