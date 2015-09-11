@@ -27,7 +27,9 @@ Title: After School Program
            T/F:  Chinese 45 mins
            M/W/Th: Singapore Math 45 mins
         
+        Rate: $100/Week
 
+-  ###Half Day Kindergarten ### Rate: $180/Week
 
 ----------
 - ###Notice###
