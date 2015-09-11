@@ -29,7 +29,8 @@ Title: After School Program
         
         Rate: $100/Week
 
-- ###Half Day Kindergarten ### Rate: $180/Week
+- ###Half Day Kindergarten### 
+        Rate: $180/Week
 
 ----------
 - ###Notice###
