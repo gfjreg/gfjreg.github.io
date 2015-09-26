@@ -43,6 +43,8 @@ Title: After School Program
 
 - **Pay full price when absent for not whole week**
 
+- **Conference week: Extra $15 each day**
+
 - Two-week notice will be given for rate increases.
 
 - If other adjustments are needed, a two-week notice will be given.   
