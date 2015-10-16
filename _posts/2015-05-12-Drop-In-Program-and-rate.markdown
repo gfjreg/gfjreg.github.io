@@ -10,7 +10,6 @@ Title: Drop In Program and Rate
      Hour:              $10/Hour
      Day,8:00am-6:00pm: $60/Day 
 
-
 ----------
 
 - Two-week notice will be given for rate increases.
