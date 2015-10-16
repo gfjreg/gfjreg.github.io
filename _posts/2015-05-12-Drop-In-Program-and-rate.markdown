@@ -7,12 +7,8 @@ Title: Drop In Program and Rate
 
 
 ##Rate##
-     Hour:              $8/Hour
-     Day,8:00am-6:00pm: $50/Day 
-
-
-###Serve hot lunch with two snacks for full day students###
-
+     Hour:              $10/Hour
+     Day,8:00am-6:00pm: $60/Day 
 
 
 ----------
