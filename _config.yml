@@ -26,6 +26,7 @@ welcome: Welcome to
 
 generaltextcolor: color:black
 scheduletextcolor: color:red
+scheduletitlecolor: color:green
 
 homevideo_desc: Watch the above video to see what the students achieved after 100 days
 
@@ -104,14 +105,14 @@ wizard14Display:
 
 homevideo: /videos/100days.mp4
 
-schedule-period:  Monday - Friday
+schedule-period:  Monday - Friday:
 schedule-1-class: Chinese
 schedule-1-type:  Reading & Writing
-schedule-1-period: 45 mins
+schedule-1-period: 40 mins
 
 schedule-2-class: Singapore Math
 schedule-2-type: Supervise & answer questions      
-schedule-2-period: 45 mins
+schedule-2-period: 40 mins
 
 schedule-type2:    Singapore Math
 schedule-type2-period:  45 mins
