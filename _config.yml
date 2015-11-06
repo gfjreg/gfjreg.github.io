@@ -104,14 +104,14 @@ wizard14Display:
 
 homevideo: /videos/100days.mp4
 
-schedule-period:  Mon-Fri
-schedule-1-class:     Chinese
-schedule-1-type:      Reading & Writing
-schedule-1-period:   45 mins
+schedule-period:  Monday - Friday
+schedule-1-class: Chinese
+schedule-1-type:  Reading & Writing
+schedule-1-period: 45 mins
 
-schedule-2-class:     Singapore Math
-schedule-2-type:      Supervise & answer questions      
-schedule-2-period:   45 mins
+schedule-2-class: Singapore Math
+schedule-2-type: Supervise & answer questions      
+schedule-2-period: 45 mins
 
 schedule-type2:    Singapore Math
 schedule-type2-period:  45 mins
