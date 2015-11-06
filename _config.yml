@@ -103,13 +103,18 @@ wizard14URL:
 wizard14Display:
 
 homevideo: /videos/100days.mp4
-schedule-mon:  Mon
-schedule-mon-type:     Chinese
-schedule-mon-period:   45 mins
 
-schedule-tues: Tue
-schedule-tues-type:    Singapore Math
-schedule-tues-period:  45 mins
+schedule-period:  Mon-Fri
+schedule-1-class:     Chinese
+schedule-1-type:      Reading & Writing
+schedule-1-period:   45 mins
+
+schedule-2-class:     Singapore Math
+schedule-2-type:      Supervise & answer questions      
+schedule-2-period:   45 mins
+
+schedule-type2:    Singapore Math
+schedule-type2-period:  45 mins
 
 schedule-wed:  Wed
 schedule-wed-type:     Chinese
@@ -117,7 +122,7 @@ schedule-wed-period:   45 mins
 
 schedule-thur: Thu
 schedule-thur-type:    Singapore Math
-schedule-thur-period:  45 mins
+schedule-thur-period:  40 mins
 
 schedule-fri:  Fri
 schedule-fri-type:     Chinese
