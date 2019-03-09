@@ -91,8 +91,9 @@ wizard10URL: /documents.html
 wizard10title: you can find all info you want to know here 
 wizard10Display: Documents
 
-wizard11URL: 
-wizard11Display: 
+wizard11URL: /gossip.html
+wizard11title: Gossip game 
+wizard11Display: A minor game
 
 wizard12URL: 
 wizard12Display: 
